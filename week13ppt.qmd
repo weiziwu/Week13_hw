@@ -1,0 +1,32 @@
+---
+title: "hw13_ppt"
+format: pptx
+editor: visual
+---
+
+## Intro
+
+Cancer remains a significant health concern in the United States.
+
+This is because: 
+- Cancer cost is rising 
+- Survival rate has been improved 
+- Distressing symptoms have been reported
+
+## Cancer cost graph
+
+![](images/Costs%20of%20Cancer.pdf){fig-align="center"}
+
+## cancer prevalence graph
+
+![](images/cancer%20prevalence.png)
+
+## Symptom Science
+
+The National Institute of Nursing Research (NINR) has integrated the precision health approach into its symptom-science model to guide nursing research in symptom science
+
+## Reference
+
+1.  Siegel, R.L., et al., Colorectal cancer statistics, 2023. CA: A Cancer Journal for Clinicians, 2023.
+2.  Cashion, A.K., et al., National Institutes of Health Symptom Science Model sheds light on patient symptoms. Nurs Outlook, 2016. 64(5): p. 499-506.
+3.  Hickey, K.T., et al., Precision health: Advancing symptom and self-management science. Nurs Outlook, 2019. 67(4): p. 462-475.

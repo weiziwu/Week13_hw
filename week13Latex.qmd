@@ -1,0 +1,50 @@
+---
+title: "week13_Latex"
+format: pdf
+editor: visual
+---
+
+## 
+\section{Introduction}
+
+```{=tex}
+%%%%%%%%%%%%%%%%%%%% Introduction %%%%%%%%%%%%%%%%%%%%
+
+% Horizontal lines
+\noindent Cancer remains a significant health concern in the United States.\\ 
+\hrulefill 
+
+% Spacing
+\vspace{0.5cm}
+
+% Bold and italic text
+\textbf{This is because:}
+\begin{itemize}
+    \item \emph{Cancer cost is rising}
+    \item \emph{Survival rate has been improved}
+    \item \emph{Distressing symptoms have been reported}
+\end{itemize}
+
+% Spacing
+\vspace{0.5cm}
+
+% Footnote
+\noindent intro \footnote{Weizi, 2024}.
+```
+
+
+# Markdown
+# Introduction
+## Background
+
+# Cancer remains a significant health concern in the United States.
+
+------------------------------------------------------------------------
+
+**This is because:**
+
+*-Cancer cost is rising*
+
+*-Survival rate has been improved*
+
+*-Distressing symptoms have been reported*
